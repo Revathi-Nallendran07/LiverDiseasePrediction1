@@ -1,12 +1,12 @@
 # LiverDiseasePrediction1
 
-Overview
+Overview :
 This project aims to predict the likelihood of liver disease in patients using machine learning techniques. Liver disease is a significant health concern worldwide, and early detection can greatly improve treatment outcomes. By leveraging data science and predictive modeling, this project seeks to assist healthcare professionals in identifying patients at risk of liver disease.
 
-Dataset
+Dataset :
 The dataset used for this project is sourced from [provide dataset source/link]. It contains various clinical features such as age, gender, blood test results, and other relevant indicators associated with liver health. The dataset is preprocessed and cleaned to ensure accurate analysis and model training.
 
-Methodology
+Methodology :
 The project follows a typical machine learning pipeline:
 
 Data Preprocessing:
